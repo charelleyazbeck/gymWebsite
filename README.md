@@ -95,3 +95,4 @@ Created collaboratively by Charelle Yazbeck and 3 of her classmates for the *Dé
 - 🔔 Notification system for bookings and product updates  
 ```
 
+<img width="2344" height="1176" alt="ER final database web3" src="https://github.com/user-attachments/assets/2f8e2e03-de43-4483-8319-c270e39dca4d" />

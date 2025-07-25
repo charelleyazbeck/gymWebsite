@@ -1,0 +1,12 @@
+.header{
+    width: fit-content;
+    height: 30px;
+    background-color: white;
+    border: 3px solid rgb(0, 139, 149);
+    text-align: center;
+}
+.header:hover{
+    background-color: rgb(125, 125, 125);
+    transition: all;
+    transition-duration: 0.3s;
+}
